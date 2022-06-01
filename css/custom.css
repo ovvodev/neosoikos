@@ -1,0 +1,148 @@
+body{
+	background-image: url("../img/swirl_pattern_2.png");
+}
+
+nav{
+	background-color: transparent;
+	box-shadow: none;
+	border-bottom: 1px solid rgba(140, 140, 140, 0.5);
+}
+.nav-wrapper{
+	margin-top: 3.5rem;
+}
+nav ul a,nav a ,a{
+	font-family: "Courier New", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,  Courier, monospace;
+	color: black;
+}
+nav ul a:hover{
+	background-color: transparent;
+	-webkit-box-shadow: 0px 1px 0px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 1px 0px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 1px 0px 0px rgba(0,0,0,0.75);
+}
+.breadcrumb{
+	color: black;
+	font-size: .8rem;
+}
+.slider .slides{
+	background-color: transparent;
+}
+.slider .indicators .indicator-item.active{
+	background-color: #0096ff;
+}
+.slider .slides li .caption h3, .slider .slides li .caption h5{
+	font-family: "Roboto";
+	font-weight: 100;
+}
+.breadcrumb:before{
+	color: black;
+}
+.breadcrumb:last-child , .breadcrumb:last-child:before{
+	color: #9b9b9b;
+}
+.current{
+	-webkit-box-shadow: 0px 1px 0px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 1px 0px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 1px 0px 0px rgba(0,0,0,0.75);
+	
+}
+.brand-logo img{
+	/*margin-left: 1rem;*/
+	margin-top: -3rem;
+	width: 12rem;
+}
+#logofirst{
+	margin-top: 10rem;
+}
+
+#slogan{
+	font-family: "Courier New", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,  Courier, monospace;
+	margin-top: 2em;
+}
+#slogan h1{
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+#selection_button{
+	margin-top: 10rem;
+	font-family: "Courier New", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,  Courier, monospace;
+
+}
+
+.orderButton{
+	margin-top: 1rem;
+}
+.hand{
+	cursor: pointer;
+	padding: 2rem;
+	margin-bottom: .4rem;
+	background-color: #0079bf;
+	color: white;
+}
+.hand:hover{
+	background-color: #00a2c6;
+}
+.moreInfo , #conatctInfo{
+	font-family: "Courier New", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,  Courier, monospace;
+	
+}
+.signature{
+	width: 16rem;
+}
+
+.firstInfo{
+	font-family: "Courier New", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,  Courier, monospace;
+	margin-top: 5rem;
+}
+
+.firstInfo img{
+	padding-top: 1.5rem;
+	padding-bottom: 2.2rem;
+}
+.firstInfo h5{
+	font-weight: bold;
+	font-size: 1.3rem;
+}
+
+#conatctInfo a{
+	font-size: 3rem;
+	padding: 1.2rem;
+	color: #848484;
+}
+#conatctInfo a:hover{
+	color: black;
+}
+.moreInfo h1{
+	font-size: 2rem;
+	font-weight: bold;
+}
+.thumbnails img{
+	display: inline-block;
+	padding-top: 1rem;
+}
+#selection_button img{
+	width: 8rem;
+}
+#info p, #info h1 , #info h2{
+	font-family: "Courier New", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco,  Courier, monospace;
+}
+
+#info h1{
+	padding-top: 5rem;
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+#info h2{
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+#info i {
+	color: black;
+	font-size: 1.1rem;
+	padding: 0.6rem;
+}
+
+#Container_model .mix{
+	display: none;
+}
+
